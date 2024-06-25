@@ -27,6 +27,7 @@ Event Handling:
 When a button is clicked, the actionPerformed method is triggered. The source of the event is checked to determine which button was clicked, and the corresponding action is performed.
 Sign-Up Process:
 When the "Sign up" button is clicked, the current frame is hidden, and a new sign-up form is displayed.
+
 ![image](https://github.com/Sonamkandari/BankManagementproject/assets/145662567/930b1da7-4918-4952-8acc-59d4d5127645)
 
 
@@ -71,10 +72,12 @@ The database connection class handles the execution of this query.
 Feedback:
 
 The user is informed whether the data has been successfully saved or if an error occurred during the process.
+
 ![image](https://github.com/Sonamkandari/BankManagementproject/assets/145662567/d4b5b5ee-c1bf-4093-b2c3-0e3575ccf24f)
 
 
 now when in the signup page i entered the data it get saved in my data base which i have been made 
+
 
 ![image](https://github.com/Sonamkandari/BankManagementproject/assets/145662567/4b235d33-6b68-49ee-ad1f-def8d2611631)
 
